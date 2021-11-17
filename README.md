@@ -5,5 +5,5 @@ AES Crypt is a simple command-line program written in F# which encrypts and decr
 Usage
 -----------------
 ```console
-aes_crypt {{-encrypt|-decrypt} <input file> <output file> <password>[-benchmark]|-check}
+aes_crypt {{-encrypt|-decrypt} <input file> <output file> <password> [-benchmark]|-check}
 ```
